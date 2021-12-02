@@ -2,7 +2,5 @@
 
 # Intellij
 /shelf/
-/workspace.xml
-/modules.xml
-/vcs.xml
+*.xml
 *.iml
