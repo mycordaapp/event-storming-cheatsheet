@@ -1,0 +1,8 @@
+# Default ignored files
+
+# Intellij
+/shelf/
+/workspace.xml
+/modules.xml
+/vcs.xml
+*.iml
