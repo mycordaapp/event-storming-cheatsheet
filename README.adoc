@@ -51,17 +51,20 @@ Optional additions:
 
 == Reference
 
-The semantics of the various colors as mentioned in the text above are shown below for reference.
+The semantics of the various colors as mentioned in the text above are shown below for reference with a suggested RGB value
 
-* *Domain Events* - orange
-* *Commands* - light blue
-* *Aggregates* - yellow
-* *Issues* - red or purple
+* *Domain Events* - orange - ef8d22
+* *Commands* - light blue - c1e4f7
+* *Aggregates* - yellow - ffdf71
+* *Issues* - red or purple - b391b5
 * *User Roles / Personas* - yellow with stick figure
-* *Views* - green
-* *Bounded contexts* - solid line, names on pink notes
+* *Views* - green - a3d977
+* *Bounded contexts* - solid line, names on pink notes -f5b5c8
 * *Subdomains* - dashed lines
 * *Event Flow* - arrows
+
+See https://lucid.app/lucidchart/913f2d39-3a41-4c93-b6a6-5acdbbd0f624/edit?invitationId=inv_2cb7a39a-ec39-467c-9fd0-4d5b494cf564 for
+some prebuilt cards.
 
 == Further Information
 
