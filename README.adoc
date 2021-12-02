@@ -54,7 +54,7 @@ Optional additions:
 The semantics of the various colors as mentioned in the text above are shown below for reference with a suggested RGB value
 
 * *Domain Events* - orange - ef8d22
-* *Commands* - light blue - c1e4f7
+* *Commands* - light blue - 99d2f2
 * *Aggregates* - yellow - ffdf71
 * *Issues* - red or purple - b391b5
 * *User Roles / Personas* - yellow with stick figure
