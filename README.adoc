@@ -66,13 +66,9 @@ The semantics of the various colors as mentioned in the text above are shown bel
 See https://lucid.app/lucidchart/913f2d39-3a41-4c93-b6a6-5acdbbd0f624/edit?invitationId=inv_2cb7a39a-ec39-467c-9fd0-4d5b494cf564 for
 some prebuilt cards.
 
+== A Simple Example
+
 image::https://github.com/mycordaapp/event-storming-cheatsheet/raw/master/images/event-storming-example.jpg[An example]
-
-
-.An example
-[#event-storming-example]
-[caption="Figure 1: ",link=https://github.com/mycordaapp/event-storming-cheatsheet/raw/master/images/event-storming-example.jpg]
-image::event-storming-example.jpg[Sunset,200,300]
 
 == Further Information
 
